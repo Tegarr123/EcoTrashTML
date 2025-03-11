@@ -1,0 +1,13 @@
+names:
+- Botol bekas
+- gelas bekas
+nc: 2
+roboflow:
+  license: CC BY 4.0
+  project: ecotrash
+  url: https://universe.roboflow.com/myfirstproject-hutog/ecotrash/dataset/3
+  version: 3
+  workspace: myfirstproject-hutog
+test: ../test/images
+train: ../train/images
+val: ../valid/images
